@@ -1,16 +1,6 @@
 # worldtime_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WORLD4](https://user-images.githubusercontent.com/74185121/185790649-e869e361-f636-4640-bf8f-8d7899619364.png)
+![world2](https://user-images.githubusercontent.com/74185121/185790651-3c04f7ad-81ac-4aef-b392-976218a2f409.png)
+![world3](https://user-images.githubusercontent.com/74185121/185790655-bdc43efc-4e1a-4bec-86ad-c486e9d25190.png)
+![world1](https://user-images.githubusercontent.com/74185121/185790658-1febbfde-1022-4e5d-a700-518d8b30899c.png)
